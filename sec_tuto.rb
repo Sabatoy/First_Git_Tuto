@@ -10,6 +10,6 @@
 # 
 # puts yves.class
 
-title = gets.chomp
+#title = gets.chomp
 
-puts title
+#puts title
