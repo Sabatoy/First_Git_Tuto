@@ -1,2 +1,4 @@
 # First_Git_Tuto
-My first repo in GitHub
+This is based off Githubs online tutorial.
+
+What it do Git world! Efing catching up here. 
