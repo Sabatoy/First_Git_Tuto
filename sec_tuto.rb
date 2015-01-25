@@ -13,3 +13,4 @@
 #title = gets.chomp
 
 #puts title
+# I here everything in Ruby is an Object. Akward!
