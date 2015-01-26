@@ -3,4 +3,4 @@ This is based off Githubs online tutorial.
 
 What it do Git world! Efing catching up here.
 
-Be water my friends. 
+Empty your mind friends, be formless.. shnapeless like water. Be water my friends. 
